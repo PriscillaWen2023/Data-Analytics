@@ -1,36 +1,36 @@
-# Data-Analytics
+# Data-Analytics Portfolio
 This is the portfolio of all class assignments I have completed in Data Analytics.
 
 ## My Résumé
 
-Résumé
+   - [Résumé](https://colab.research.google.com/drive/1gNtcVIppnBZjPM9RwQ5BVopBqiGhDISf?usp=drive_link)
 
 ## Table of Contents
 
-Module 1: Using Colab
+#### Module 1: Using Colab
 
-A1: Markdown CV
+   - A1: Markdown CV
 
-Module 2: Fundamentals of Programming for Data Analysis
+#### Module 2: Fundamentals of Programming for Data Analysis
 
-A2 Programming Fundamentals
+   - A2 Programming Fundamentals
 
-Module 3: Working with Data
+#### Module 3: Working with Data
 
-A3 Work with data Yelp Reviews
+   - A3 Work with data Yelp Reviews
 
-Module 4: Stats review
+#### Module 4: Stats review
 
-A4 Hypothesis testing - FB ads and Starbucks promos
+   - A4 Hypothesis testing - FB ads and Starbucks promos
 
-Module 5: Regression
+#### Module 5: Regression
 
-A5 Regression Analysis
+   - A5 Regression Analysis
 
-Module 6: Clustering and Segmentation
+#### Module 6: Clustering and Segmentation
 
-A6 Segmentation (retail transactions and behavioral segmentation)
+   - A6 Segmentation (retail transactions and behavioral segmentation)
 
-Module 7: Use GitHub to Create Your Assignment Portfolio
+#### Module 7: Use GitHub to Create Your Assignment Portfolio
 
-A7 List Your Data Analytics Skills
+   - A7 List Your Data Analytics Skills
