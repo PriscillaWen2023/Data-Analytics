@@ -13,7 +13,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 #### Module 2: Fundamentals of Programming for Data Analysis
 
-   - A2 [Programming Fundamentals](https://drive.google.com/file/d/1txRpVyQA0iztlKb74yVSKAvUtXzVrbO5/view?usp=drive_link)
+   - A2 [Programming Fundamentals](https://colab.research.google.com/drive/1CB_sNFonPf-DN0F-uj0Sen7W54i0__1S?usp=drive_link)
 
 #### Module 3: Working with Data
 
